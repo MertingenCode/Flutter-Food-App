@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "137114861482",
+    "project_id": "yemekapp5678",
+    "storage_bucket": "yemekapp5678.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137114861482:android:5c858b44587e8727b175d3",
+        "android_client_info": {
+          "package_name": "com.example.yemek_uygulamasi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAf8XVitQNx9KLbCiVcfrVjBje02trvvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
